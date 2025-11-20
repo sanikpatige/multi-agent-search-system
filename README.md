@@ -87,7 +87,7 @@ graph TD
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/multi-agent-search-system.git
+git clone https://github.com/sanikpatige/multi-agent-search-system.git
 cd multi-agent-search-system
 ```
 
@@ -451,10 +451,9 @@ MIT License - see LICENSE file
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+**Sanik Patige**
+- GitHub: [@sanikpatige](https://github.com/sanikpatige)
+
 
 ---
 
